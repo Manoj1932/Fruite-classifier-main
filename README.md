@@ -157,6 +157,6 @@ Distributed under the MIT License. See LICENSE for details.
 
 ## 📬 Contact
 
-**Manoj Maruboina –** manojmaruboina1431@gmail.com
+**Jaddu Mohan Kishore –** jaddumohankishore@gmail.com
 
-**Project Link:** https://github.com/Manoj1932/Fruit-classifier
+**Project Link:** https://github.com/jaddumohankishore/Fruit-classifier
